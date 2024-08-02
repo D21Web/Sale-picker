@@ -1,0 +1,12 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+numpy
+datetime
+python-dateutil
+gspread
+gspread-formatting
+fastapi>=0.90.1
+gradio
+gradio_calendar
